@@ -875,7 +875,7 @@ int indexNumber = converter.convertValue(indexNumber, int.class);
 ### Obtain a conversion function that convert from char to byte:
 
 It's possible to obtain a type conversion function, reusable several time in different places.
-Assuming that the required conversion is from `char` to `byte
+Assuming that the required conversion is from `char` to `byte`
 
 ```java
 char c = '1';                                                        
